@@ -1,0 +1,10 @@
+{
+	"function": {
+		"scrapePredictionsLambda": {
+			"service": "Lambda",
+			"providerPlugin": "awscloudformation",
+			"build": true,
+			"dependsOn": []
+		}
+	}
+}

@@ -1,0 +1,14 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "scrapepredictionslam-dev-20190523100024-authRole",
+            "UnauthRoleArn": "arn:aws:iam::406663228336:role/scrapepredictionslam-dev-20190523100024-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::406663228336:role/scrapepredictionslam-dev-20190523100024-authRole",
+            "Region": "eu-west-2",
+            "DeploymentBucketName": "scrapepredictionslam-dev-20190523100024-deployment",
+            "UnauthRoleName": "scrapepredictionslam-dev-20190523100024-unauthRole",
+            "StackName": "scrapepredictionslam-dev-20190523100024",
+            "StackId": "arn:aws:cloudformation:eu-west-2:406663228336:stack/scrapepredictionslam-dev-20190523100024/317ffcb0-7d39-11e9-8c05-06d574da8aae"
+        }
+    }
+}
