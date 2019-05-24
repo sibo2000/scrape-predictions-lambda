@@ -60,7 +60,7 @@
 				"Timeout": "25",
 				"Code": {
 					"S3Bucket": "scrapepredictionslam-dev-20190523100024-deployment",
-					"S3Key": "amplify-builds/scrapePredictionsLambda-1558610334-latest-build.zip"
+					"S3Key": "amplify-builds/scrapePredictionsLambda-1558694448-latest-build.zip"
 				}
 			}
 		},
